@@ -1,2 +1,2 @@
 # Bookshelf
-A personal project to learn Angular and Laravel by creating a bookstore website 
+A bookstore website made with HTML, CSS, JS, MySQL and PHP
